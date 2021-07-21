@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_231"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="src/jarPackage/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="src/jarPackage/commons-net-3.1.jar" sourcepath="src/jarPackage/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="src/jarPackage/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse-workspace/GUI_FTP/src/jarPackage/beautyeye_lnf.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
